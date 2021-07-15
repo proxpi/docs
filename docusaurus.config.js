@@ -18,6 +18,7 @@ module.exports = {
       logo: {
         alt: 'My Site Logo',
         src: 'img/proxpi.png',
+        target: '/docs/home',
       },
       items: [
         {
