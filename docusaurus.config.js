@@ -25,7 +25,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Documentation',
         },
         
         {
@@ -42,7 +42,7 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Documentaion',
               to: '/docs/intro',
             },
           ],
@@ -75,7 +75,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} ProxPi, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} ProxPi, Inc.`,
     },
     prism: {
       theme: lightCodeTheme,
