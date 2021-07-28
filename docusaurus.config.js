@@ -4,8 +4,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'ProxPi',
-  tagline: "Proxy your RESTful API's",
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: "A Proxy your RESTful API's",
+  url: 'https://proxpi.tech/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
